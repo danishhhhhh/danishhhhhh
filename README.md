@@ -1,5 +1,6 @@
-<img align="right" alt="maomao" width="400" src="https://i.imgur.com/L23H0Ik.gif">
-
+<p align="center">
+  <img align="right" alt="maomao" width="400" src="https://i.imgur.com/L23H0Ik.gif">
+</p>
 <!--
 **danishhhhhh/danishhhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
