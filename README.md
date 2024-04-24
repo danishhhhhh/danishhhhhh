@@ -1,12 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danishhhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="danishhhhhh" /> </p>
+
 <p align="center">
   <img alt="maomao" width="400" src="https://i.imgur.com/L23H0Ik.gif">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danishhhhhh&label=Profile%20views&color=0e75b6&style=flat" alt="danishhhhhh" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <!--📊 **this week i spent my time on:**-->
 
 <!--START_SECTION:waka-->
