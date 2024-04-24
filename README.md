@@ -7,8 +7,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+<!--📊 **this week i spent my time on:**-->
 
-📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
