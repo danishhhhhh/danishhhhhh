@@ -13,7 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   4 hrs 43 mins   █████████████████████████   100.00 %
+PHP    5 hrs 27 mins   ████████████▓░░░░░░░░░░░░   50.94 %
+Dart   5 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.06 %
 ```
 
 <!--END_SECTION:waka-->
