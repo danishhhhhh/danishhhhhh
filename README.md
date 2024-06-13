@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    2 hrs 5 mins    █████████████████████████   99.75 %
-Dart   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+PHP   2 hrs 5 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
