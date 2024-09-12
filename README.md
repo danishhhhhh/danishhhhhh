@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              4 hrs 59 mins   ████████████████████▓░░░░   82.39 %
-Dart             37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-textmate         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Bash             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
