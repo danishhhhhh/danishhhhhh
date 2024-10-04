@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              1 min           ███████████████▓░░░░░░░░░   63.22 %
-Blade Template   0 secs          ████████▒░░░░░░░░░░░░░░░░   33.89 %
-textmate         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+PHP              1 min           ███████████████▓░░░░░░░░░   63.16 %
+Blade Template   0 secs          ████████▒░░░░░░░░░░░░░░░░   33.81 %
+textmate         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-EditorConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+EditorConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
