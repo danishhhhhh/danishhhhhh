@@ -7,17 +7,3 @@
 
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dnisshh._" height="30" width="40" />](https://instagram.com/dnisshh._)
 **danishyoe**
-
-//</br></br></br></br></br>
-
-//<!--START_SECTION:waka-->
-
-/*```txt
-PHP              19 hrs 2 mins   ████████████████████████▓   98.64 %
-Bash             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-textmate         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-EditorConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```*/
-
-//<!--END_SECTION:waka-->
